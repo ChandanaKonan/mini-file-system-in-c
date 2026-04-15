@@ -1,4 +1,4 @@
-# A simple file system 🤖🗂
+# Mini File System in C
 Development of a file system in user space written in C. The project consists of the creation of the file system architecture, including all the necessary control structures (i-nodes, superblock, etc) in user space. Some code it's provided by the professors of our university.
 
 **Authors of the project**: Mario Lozano Cortés and Enrique Lozano Cebriano 📚💻
